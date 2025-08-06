@@ -26,7 +26,7 @@ Knowledge units are defined in simple YAML files inside the `cards/` folder. Eac
             hint2: "Roughly 10 years after 476."
               context: "Marked the beginning of the Merovingian kingdom."
                 link: "https://en.wikipedia.org/wiki/Clovis_I"
-                ````
+ ```
 
 Cards must include:
 
