@@ -1,0 +1,90 @@
+- meta:
+    theme: politique_france
+  question: "Qui est président de la République française en 1947 ?"
+  answer: "Vincent Auriol"
+  hint1: "Juste après la Libération."
+  hint2: "Premier président de la IVe République."
+  context: "Membre de la SFIO."
+  link: "https://fr.wikipedia.org/wiki/Vincent_Auriol"
+
+- meta:
+    theme: politique_france
+  question: "Qui est président de la République française en 1954 ?"
+  answer: "René Coty"
+  hint1: "Dernier président de la IVe République."
+  hint2: "Son mandat précède le retour de de Gaulle."
+  context: "Président de 1954 à 1959."
+  link: "https://fr.wikipedia.org/wiki/Ren%C3%A9_Coty"
+
+- meta:
+    theme: politique_france
+  question: "Qui devient président de la République en 1959 ?"
+  answer: "Charles de Gaulle"
+  hint1: "Fondateur de la Ve République."
+  hint2: "Ancien chef de la France libre."
+  context: "Président jusqu'en 1969."
+  link: "https://fr.wikipedia.org/wiki/Charles_de_Gaulle"
+
+- meta:
+    theme: politique_france
+  question: "Qui est élu président de la République en 1969 ?"
+  answer: "Georges Pompidou"
+  hint1: "Ancien Premier ministre de de Gaulle."
+  hint2: "Mort en fonction en 1974."
+  context: "Mandat interrompu par sa mort."
+  link: "https://fr.wikipedia.org/wiki/Georges_Pompidou"
+
+- meta:
+    theme: politique_france
+  question: "Qui devient président en 1974 ?"
+  answer: "Valéry Giscard d’Estaing"
+  hint1: "Centriste."
+  hint2: "Élu à 48 ans."
+  context: "Président jusqu'en 1981."
+  link: "https://fr.wikipedia.org/wiki/Val%C3%A9ry_Giscard_d%27Estaing"
+
+- meta:
+    theme: politique_france
+  question: "Quel président de la République est élu en 1981 ?"
+  answer: "François Mitterrand"
+  hint1: "Premier président de gauche de la Ve République."
+  hint2: "Élu face à Valéry Giscard d’Estaing."
+  context: "Il effectue deux septennats."
+  link: "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Mitterrand"
+
+- meta:
+    theme: politique_france
+  question: "Qui devient président de la République en 1995 ?"
+  answer: "Jacques Chirac"
+  hint1: "Ancien maire de Paris."
+  hint2: "Succède à François Mitterrand."
+  context: "Président jusqu'en 2007."
+  link: "https://fr.wikipedia.org/wiki/Jacques_Chirac"
+
+- meta:
+    theme: politique_france
+  question: "Quel président succède à Jacques Chirac en 2007 ?"
+  answer: "Nicolas Sarkozy"
+  hint1: "Membre de l’UMP."
+  hint2: "Battant Ségolène Royal au second tour."
+  context: "Présidence marquée par la crise de 2008."
+  link: "https://fr.wikipedia.org/wiki/Nicolas_Sarkozy"
+
+- meta:
+    theme: politique_france
+  question: "Quel président a précédé Emmanuel Macron ?"
+  answer: "François Hollande"
+  hint1: "Président socialiste."
+  hint2: "Élu en 2012."
+  context: "Ne se représente pas en 2017."
+  link: "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande"
+
+- meta:
+    theme: politique_france
+  question: "Qui est président depuis 2017 ?"
+  answer: "Emmanuel Macron"
+  hint1: "Ancien ministre de l’Économie."
+  hint2: "Réélu en 2022."
+  context: "Premier président réélu hors cohabitation depuis 2002."
+  link: "https://fr.wikipedia.org/wiki/Emmanuel_Macron"
+

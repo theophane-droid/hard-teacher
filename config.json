@@ -1,0 +1,7 @@
+{
+  "CARDS_DIR": "cards",
+  "DATA_FILE": "data.json",
+  "UNITS_PER_THEME": 10,
+  "REVIEW_VALIDATED": 3,
+  "VALID_STREAK_DAYS": 3
+}

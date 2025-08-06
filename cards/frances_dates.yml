@@ -1,0 +1,150 @@
+- meta:
+    theme: histoire_france
+  question: "En quelle année Clovis a-t-il vaincu Syagrius à Soissons ?"
+  answer: 486
+  hint1: "Fin du Ve siècle."
+  hint2: "Une décennie après 480."
+  context: "Début du royaume mérovingien."
+  link: "https://fr.wikipedia.org/wiki/Bataille_de_Soissons_(486)"
+- meta:
+    theme: histoire_france
+  question: "En quelle année Charles Martel arrête-t-il les Arabes à Poitiers ?"
+  answer: 732
+  hint1: "VIIIe siècle."
+  hint2: "Deux ans après 730."
+  context: "Freine l'expansion omeyyade en Europe de l'Ouest."
+  link: "https://fr.wikipedia.org/wiki/Bataille_de_Poitiers_(732)"
+- meta:
+    theme: histoire_france
+  question: "En quelle année est signé le traité de Verdun ?"
+  answer: 843
+  hint1: "IXe siècle, décennie 840."
+  hint2: "Trois ans après 840."
+  context: "Partage de l'empire carolingien entre les petits-fils de Charlemagne."
+  link: "https://fr.wikipedia.org/wiki/Trait%C3%A9_de_Verdun"
+- meta:
+    theme: histoire_france
+  question: "En quelle année Hugues Capet est-il élu roi de France ?"
+  answer: 987
+  hint1: "Xe siècle, fin."
+  hint2: "Treize ans avant l’an 1000."
+  context: "Fondation de la dynastie capétienne."
+  link: "https://fr.wikipedia.org/wiki/Hugues_Capet"
+- meta:
+    theme: histoire_france
+  question: "En quelle année la bataille de Bouvines a-t-elle eu lieu ?"
+  answer: 1214
+  hint1: "XIIIe siècle, décennie 1210."
+  hint2: "Quatre ans après 1210."
+  context: "Victoire déterminante de Philippe Auguste."
+  link: "https://fr.wikipedia.org/wiki/Bataille_de_Bouvines"
+- meta:
+    theme: histoire_france
+  question: "En quelle année commence la guerre de Cent Ans ?"
+  answer: 1337
+  hint1: "XIVe siècle, avant la peste noire."
+  hint2: "Trois ans avant 1340."
+  context: "Conflit franco‑anglais qui durera 116 ans."
+  link: "https://fr.wikipedia.org/wiki/Guerre_de_Cent_Ans"
+- meta:
+    theme: histoire_france
+  question: "En quelle année Jeanne d'Arc libère Orléans ?"
+  answer: 1429
+  hint1: "Première moitié du XVe siècle."
+  hint2: "Une année se terminant par 29."
+  context: "Tournant de la guerre de Cent Ans."
+  link: "https://fr.wikipedia.org/wiki/Si%C3%A8ge_d%27Orl%C3%A9ans"
+- meta:
+    theme: histoire_france
+  question: "En quelle année se déroule la bataille de Marignan ?"
+  answer: 1515
+  hint1: "Début du XVIe siècle."
+  hint2: "Souvenez‑vous du slogan « … et 15 »."
+  context: "Victoire de François Iᵉʳ sur les Suisses."
+  link: "https://fr.wikipedia.org/wiki/Bataille_de_Marignan"
+- meta:
+    theme: histoire_france
+  question: "En quelle année a lieu le massacre de la Saint‑Barthélemy ?"
+  answer: 1572
+  hint1: "Seconde moitié du XVIe siècle."
+  hint2: "Deux ans après 1570."
+  context: "Point culminant des guerres de Religion."
+  link: "https://fr.wikipedia.org/wiki/Massacre_de_la_Saint-Barth%C3%A9lemy"
+- meta:
+    theme: histoire_france
+  question: "En quelle année Henri IV publie l'édit de Nantes ?"
+  answer: 1598
+  hint1: "Fin du XVIe siècle."
+  hint2: "Deux ans avant 1600."
+  context: "Garantit la liberté de culte aux protestants."
+  link: "https://fr.wikipedia.org/wiki/%C3%89dit_de_Nantes"
+- meta:
+    theme: histoire_france
+  question: "En quelle année Louis XIV commence-t-il son règne personnel ?"
+  answer: 1661
+  hint1: "XVIIe siècle, au lendemain de Mazarin."
+  hint2: "Un an après 1660."
+  context: "Début de l'absolutisme monarchique."
+  link: "https://fr.wikipedia.org/wiki/Louis_XIV#R%C3%A8gne_personnel"
+- meta:
+    theme: histoire_france
+  question: "En quelle année la prise de la Bastille a-t-elle lieu ?"
+  answer: 1789
+  hint1: "Fin du XVIIIe siècle."
+  hint2: "Même année que la Déclaration des droits de l’homme."
+  context: "Début symbolique de la Révolution française."
+  link: "https://fr.wikipedia.org/wiki/Prise_de_la_Bastille"
+- meta:
+    theme: histoire_france
+  question: "En quelle année a lieu le coup d'État du 18 Brumaire ?"
+  answer: 1799
+  hint1: "Dernière année du XVIIIe siècle."
+  hint2: "Un an avant 1800."
+  context: "Napoléon Bonaparte met fin au Directoire."
+  link: "https://fr.wikipedia.org/wiki/Coup_d%27%C3%89tat_du_18_Brumaire"
+- meta:
+    theme: histoire_france
+  question: "En quelle année se déroule la bataille de Waterloo ?"
+  answer: 1815
+  hint1: "Début du XIXe siècle."
+  hint2: "Cinq ans après 1810."
+  context: "Dernière défaite de Napoléon Iᵉʳ."
+  link: "https://fr.wikipedia.org/wiki/Bataille_de_Waterloo"
+- meta:
+    theme: histoire_france
+  question: "En quelle année la Seconde République est-elle proclamée ?"
+  answer: 1848
+  hint1: "Milieu du XIXe siècle, printemps des peuples."
+  hint2: "Même année que les révolutions européennes."
+  context: "Fin de la monarchie de Juillet."
+  link: "https://fr.wikipedia.org/wiki/Deuxi%C3%A8me_R%C3%A9publique_(France)"
+- meta:
+    theme: histoire_france
+  question: "En quelle année la Troisième République est-elle proclamée ?"
+  answer: 1870
+  hint1: "Période de la guerre franco‑prussienne."
+  hint2: "Une décennie avant 1880."
+  context: "À la suite de la défaite de Sedan."
+  link: "https://fr.wikipedia.org/wiki/Troisi%C3%A8me_R%C3%A9publique_(France)"
+- meta:
+    theme: histoire_france
+  question: "En quelle année commence la Première Guerre mondiale ?"
+  answer: 1914
+  hint1: "Début du XXe siècle."
+  hint2: "L'année de l'assassinat de Sarajevo."
+  context: "Déclenchée après l'assassinat de Sarajevo."
+  link: "https://fr.wikipedia.org/wiki/Premi%C3%A8re_Guerre_mondiale"
+- meta:
+    theme: histoire_france
+  question: "En quelle année est signé l'armistice de la Première Guerre mondiale ?"
+  answer: 1918
+  hint1: "Fin de la Grande Guerre."
+  hint2: "Quatre ans après le début du conflit."
+  context: "Fin des combats sur le front occidental."
+  link: "https://fr.wikipedia.org/wiki/Armistice_de_1918"
+- meta:
+    theme: histoire_france
+  question: "En quelle année Charles de Gaulle lance l'appel du 18 juin ?"
+  answer: 1940
+  hint1: "Seconde Guerre mondiale, première année pour la France."
+
