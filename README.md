@@ -13,20 +13,20 @@ A minimal, theme-based spaced repetition tool to memorize facts through progress
   - Command-line interface (`teacher_cli.py`)
     - Web interface using [NiceGUI](https://nicegui.io) (`nicegui_trainer.py`)
 
-    ## 📁 Card Format
+## 📁 Card Format
 
-    Knowledge units are defined in simple YAML files inside the `cards/` folder. Each file contains a list of questions:
+Knowledge units are defined in simple YAML files inside the `cards/` folder. Each file contains a list of questions:
 
-    ```yaml
-    - meta:
-            theme: histoire_france
-          question: "In which year did Clovis defeat Syagrius?"
-            answer: 486
-              hint1: "End of the 5th century."
-                hint2: "Roughly 10 years after 476."
-                  context: "Marked the beginning of the Merovingian kingdom."
-                    link: "https://en.wikipedia.org/wiki/Clovis_I"
-                    ````
+```yaml
+- meta:
+        theme: histoire_france
+      question: "In which year did Clovis defeat Syagrius?"
+        answer: 486
+          hint1: "End of the 5th century."
+            hint2: "Roughly 10 years after 476."
+              context: "Marked the beginning of the Merovingian kingdom."
+                link: "https://en.wikipedia.org/wiki/Clovis_I"
+                ````
 
 Cards must include:
 
@@ -68,7 +68,7 @@ All settings are editable in `config.json`:
   "REVIEW_VALIDATED": 3,
   "VALID_STREAK_DAYS": 3
 }
-    ```
+ ```
 
 ## ⚙️ Requirements
 
