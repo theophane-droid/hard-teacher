@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Spaced Repetition Trainer (CLI + Web UI)
 
 A minimal, theme-based spaced repetition tool to memorize facts through progressive hints, daily sessions, and performance tracking — all powered by YAML cards.
